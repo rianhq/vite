@@ -52,3 +52,7 @@ export default tseslint.config({
   },
 })
 ```
+
+## Activity
+
+![Repobeats analytics image](https://repobeats.axiom.co/api/embed/f833ec6c21003a25c56f22fc0337fb3a22a7399a.svg "Repobeats analytics image")
